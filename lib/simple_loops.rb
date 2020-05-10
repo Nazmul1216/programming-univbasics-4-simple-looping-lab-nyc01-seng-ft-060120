@@ -30,7 +30,7 @@ def return_string_array(array)
     count+=1 
     
   end
-   
+   return array
 end
 
   
