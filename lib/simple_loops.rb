@@ -24,13 +24,13 @@ end
 end
 
 def return_string_array(array)
-  counter=0 
-  while array[counter] do
-    puts array[counter].to_s 
-    counter+=1 
+  count=0
+  while count< do 
+    array[count].to_s 
+    count+=1 
     
   end
-  return array.index.to_s  
+   
 end
 
   
