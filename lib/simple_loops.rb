@@ -30,7 +30,7 @@ def return_string_array(array)
     counter+=1 
     
   end
-  return array.to_s  
+  return array.index.to_s  
 end
 
   
