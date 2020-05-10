@@ -28,8 +28,9 @@ def return_string_array(array)
   while array[counter] do
     puts array[counter].to_s 
     counter+=1 
-    return array 
+    
   end
+  return array 
 end
 
   
